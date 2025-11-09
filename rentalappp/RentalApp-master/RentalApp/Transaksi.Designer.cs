@@ -274,8 +274,9 @@
             // btnBb
             // 
             this.btnBb.BackColor = System.Drawing.Color.Coral;
-            this.btnBb.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBb.Location = new System.Drawing.Point(12, 16);
+            this.btnBb.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBb.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.btnBb.Location = new System.Drawing.Point(12, 12);
             this.btnBb.Name = "btnBb";
             this.btnBb.Size = new System.Drawing.Size(64, 30);
             this.btnBb.TabIndex = 23;
@@ -352,7 +353,7 @@
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label15.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label15.Location = new System.Drawing.Point(268, 344);
+            this.label15.Location = new System.Drawing.Point(268, 341);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(16, 24);
             this.label15.TabIndex = 46;
@@ -404,7 +405,7 @@
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label21.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label21.Location = new System.Drawing.Point(165, 348);
+            this.label21.Location = new System.Drawing.Point(165, 345);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(76, 20);
             this.label21.TabIndex = 39;
@@ -413,7 +414,7 @@
             // txtJaminan
             // 
             this.txtJaminan.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtJaminan.Location = new System.Drawing.Point(289, 344);
+            this.txtJaminan.Location = new System.Drawing.Point(289, 341);
             this.txtJaminan.Name = "txtJaminan";
             this.txtJaminan.Size = new System.Drawing.Size(143, 26);
             this.txtJaminan.TabIndex = 38;

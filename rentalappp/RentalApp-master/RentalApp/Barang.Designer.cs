@@ -55,7 +55,7 @@
             this.btnSv.BackColor = System.Drawing.Color.BurlyWood;
             this.btnSv.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSv.ForeColor = System.Drawing.Color.DarkSlateGray;
-            this.btnSv.Location = new System.Drawing.Point(731, 356);
+            this.btnSv.Location = new System.Drawing.Point(731, 354);
             this.btnSv.Name = "btnSv";
             this.btnSv.Size = new System.Drawing.Size(130, 45);
             this.btnSv.TabIndex = 0;
@@ -66,7 +66,7 @@
             // dataGridView2
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(34, 76);
+            this.dataGridView2.Location = new System.Drawing.Point(34, 58);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.Size = new System.Drawing.Size(532, 430);
             this.dataGridView2.TabIndex = 1;
@@ -99,7 +99,7 @@
             this.label10.BackColor = System.Drawing.Color.Transparent;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(728, 142);
+            this.label10.Location = new System.Drawing.Point(728, 140);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(110, 18);
             this.label10.TabIndex = 4;
@@ -112,7 +112,7 @@
             this.label11.BackColor = System.Drawing.Color.Transparent;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.White;
-            this.label11.Location = new System.Drawing.Point(728, 199);
+            this.label11.Location = new System.Drawing.Point(728, 201);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(99, 18);
             this.label11.TabIndex = 5;
@@ -137,7 +137,7 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(833, 139);
+            this.label13.Location = new System.Drawing.Point(833, 137);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(16, 24);
             this.label13.TabIndex = 7;
@@ -161,7 +161,7 @@
             this.label15.BackColor = System.Drawing.Color.Transparent;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.White;
-            this.label15.Location = new System.Drawing.Point(833, 195);
+            this.label15.Location = new System.Drawing.Point(833, 197);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(16, 24);
             this.label15.TabIndex = 9;
@@ -182,7 +182,7 @@
             // txtNBr
             // 
             this.txtNBr.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNBr.Location = new System.Drawing.Point(868, 139);
+            this.txtNBr.Location = new System.Drawing.Point(868, 137);
             this.txtNBr.Name = "txtNBr";
             this.txtNBr.Size = new System.Drawing.Size(157, 26);
             this.txtNBr.TabIndex = 11;
@@ -190,7 +190,7 @@
             // txtSewa
             // 
             this.txtSewa.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSewa.Location = new System.Drawing.Point(868, 195);
+            this.txtSewa.Location = new System.Drawing.Point(868, 197);
             this.txtSewa.Name = "txtSewa";
             this.txtSewa.Size = new System.Drawing.Size(157, 26);
             this.txtSewa.TabIndex = 12;
@@ -208,7 +208,7 @@
             this.btnCr.BackColor = System.Drawing.Color.Tan;
             this.btnCr.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCr.ForeColor = System.Drawing.Color.DarkSlateGray;
-            this.btnCr.Location = new System.Drawing.Point(901, 424);
+            this.btnCr.Location = new System.Drawing.Point(901, 422);
             this.btnCr.Name = "btnCr";
             this.btnCr.Size = new System.Drawing.Size(124, 45);
             this.btnCr.TabIndex = 14;
@@ -221,7 +221,7 @@
             this.btnUP.BackColor = System.Drawing.Color.Tan;
             this.btnUP.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUP.ForeColor = System.Drawing.Color.DarkSlateGray;
-            this.btnUP.Location = new System.Drawing.Point(901, 356);
+            this.btnUP.Location = new System.Drawing.Point(901, 354);
             this.btnUP.Name = "btnUP";
             this.btnUP.Size = new System.Drawing.Size(124, 45);
             this.btnUP.TabIndex = 15;
@@ -234,7 +234,7 @@
             this.btnSh.BackColor = System.Drawing.Color.Tan;
             this.btnSh.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSh.ForeColor = System.Drawing.Color.DarkSlateGray;
-            this.btnSh.Location = new System.Drawing.Point(731, 424);
+            this.btnSh.Location = new System.Drawing.Point(731, 422);
             this.btnSh.Name = "btnSh";
             this.btnSh.Size = new System.Drawing.Size(130, 45);
             this.btnSh.TabIndex = 16;
@@ -244,10 +244,10 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Coral;
+            this.button1.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.button1.Font = new System.Drawing.Font("Sitka Heading", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button1.Location = new System.Drawing.Point(1181, 637);
+            this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.button1.Location = new System.Drawing.Point(1184, 635);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(64, 32);
             this.button1.TabIndex = 17;
