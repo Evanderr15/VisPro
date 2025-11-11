@@ -38,5 +38,12 @@ namespace RentalApp
             transaksi.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            crystalReport11.SetParameterValue("transaksi", textBox1.Text);
+            crystalReportViewer1.ReportSource = crystalReport11;
+            crystalReportViewer1.Refresh();
+        }
     }
 }
